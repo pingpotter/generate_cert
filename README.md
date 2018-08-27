@@ -2,3 +2,5 @@
 Generate cert
 
 Postman > setting > turn off ssl
+
+update
